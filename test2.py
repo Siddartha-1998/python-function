@@ -1,37 +1,31 @@
-import json
-import pandas as pd
-import requests as req
-# r1 = req.get('https://api.energyaspects.com/data/timeseries/?api_key=EPvbpqLCa90jVF3r&date_from=2009-01-01&date_to=2023-12-23&dataset_id=2069')
-# print(eval(r1.text))
-l = [] 
-l1 = []
-dict = {}
-for i in range(2296,2310):
+from dataclasses import dataclass
+from mysql.connector import connection
+import pickle
+
+# with open('credentials_new1.pickle', mode='rb') as f:
+#     creds = pickle.load(f)
     
-    request = ['https://api.energyaspects.com/data/timeseries/?api_key=EPvbpqLCa90jVF3r&date_from=2009-01-01&date_to=2023-12-23&dataset_id=']
-    id = i
-    res_1 = request[0]+str(i)
-    main = req.get(res_1)
-    r1 = json.loads(main.text)
-    resp = r1[0]
-    data = str(resp['metadata']['description'] + str(resp['data']))
-    l.append(data)
-for j in range(0,len(l)):
-    dict['description']=l[j][:36]
-    resp1= l[j][37:]
-    dict['date']= resp1
-    # print(dict)
-    l1.append(dict)
-    print(l1[0]['description'])
-#     for k in l1:
-#          pd.DataFrame(list(zip(list(str(eval(k.get('data')).keys())), list(str(eval(k.get('data'))).values()))),
-#                             columns=['Date', str(eval(k.get('description')))]
-#                                 ).to_excel(r'E:\GE-PROJECT_DATABASE\energy ascepts\currently working on it\done5.xlsx',
-#                                         index=False)
-#                                         # sheet_name=i.get('metadata').get('description').replace('/', '_'))
-   
+        
+# conn = connection.MySQLConnection(username=creds['user_name'],
+#                                   password=creds['password'],
+#                                   host='localhost'
+
+conn = connection.MySQLConnection(username="kowshikg",
+                                  password = "Siddu1998",
+                                  host = "localhost")
+print("connection is ok",conn)
+
+data = conn.cursor()
+l = ["SHIPING DATA","NC/0022767","NC/0022767",12336278]
+input = []
+# for main in l:
+#     m1 = (main)
+#     print(m1)
+query1 = ('USE data1','create table GREAT-EASTERN_SHIPPING(_data INTEGER,INVOICE-NO INTEGER,INVOICE VARCHAR(1001),API DATA VARCHAR(100))', 'INSERT INTO data (_id, name) VALUES(100108,"sid")')
+data.execute(query1)
+conn.commit()   
 
 
-    
- 
-    
+
+
+

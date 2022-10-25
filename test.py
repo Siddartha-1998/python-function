@@ -1,17 +1,26 @@
-import json
-with open(r"E:\GE_project\converted.json",'r') as file:
-   main =  json.load(file)
-   c = 0
-for i in main.values():
-    res = main["main Menu"]
-# print(res)
-    
-    
-for j in res:
-    c = c + 1 
-    print(res[j].replace(","," /")[::-1])
-print(c)
+from dataclasses import dataclass
+from mysql.connector import connection
+import pickle
 
+# with open('credentials_new1.pickle', mode='rb') as f:
+#     creds = pickle.load(f)
+    
         
+# conn = connection.MySQLConnection(username=creds['user_name'],
+#                                   password=creds['password'],
+#                                   host='localhost'
 
+conn = connection.MySQLConnection(username="kowshikg",
+                                  password = "Siddu1998",
+                                  host = "localhost")
+print("connection is ok",conn)
+
+data = conn.cursor()
+
+
+
+data.execute('Use data1','desc main1')
+for i in data:
+    
+    print(list(i))
 
