@@ -9,10 +9,10 @@ import os
 
 class Global_middile_disslates():
     def run1():
-        Start_id  = int(input("Enter Start Data Set_id:"))
-        End_id = int(input("Enter End Data Set_id:"))
+        # Start_id  = int(input("Enter Start Data Set_id:"))
+        # End_id = int(input("Enter End Data Set_id:"))
         
-        for i in range(Start_id,End_id+1):#data set id 2296 - 2300
+        for i in range(1,2+1):#data set id 2296 - 2300
             request = ['https://api.energyaspects.com/data/timeseries/xlsx?dataset_id=']
             api_key =  'api_key=EPvbpqLCa90jVF3r'
     #&date_from=2009-01-01&date_to=2023-12-23``

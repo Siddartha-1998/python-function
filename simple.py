@@ -4,14 +4,14 @@ import pandas as pd
 import requests as req
 import os
 import openpyxl
-# # 'https://api.energyaspects.com/data/timeseries/?api_key=EPvbpqLCa90jVF3r&date_from=2009-01-01&date_to=2023-12-23&dataset_id=2069' 
+#'https://api.energyaspects.com/data/timeseries/?api_key=EPvbpqLCa90jVF3r&date_from=2009-01-01&date_to=2023-12-23&dataset_id=2069' 
 
 l = [] 
 s = []
 l1 = []
 _dict = {}
 res_data = []
-# # # Gloabl disel Demand.
+# # # Global disel Demand.
 for i in range(1933,2070+1):#intailizing data Set From to End Range.
     # Getting data from API.
     request = ['https://api.energyaspects.com/data/timeseries/json?api_key=EPvbpqLCa90jVF3r&date_from=2009-01-01&date_to=2023-12-23&dataset_id=']
@@ -29,7 +29,7 @@ for i in range(1933,2070+1):#intailizing data Set From to End Range.
 
 
 for j in range(0,len(l)):
-    _dict['description'] = l[j][: l[j].find('kb/d') + 4] #Slicing the uneccasary data from descripition and we need only kb/d part
+    _dict['description'] = l[j][: l[j].find('kb/d') + 4]#Slicing the uneccasary data from descripition and we need only kb/d part
     _dict['date'] = eval(l[j][l[j].find('kb/d') + 4: ])#in date we need only Date Constraint and Values. we didn't need  kb/d part We Removing that.
     res_data.append(_dict)
     _dict = {} 
@@ -55,13 +55,24 @@ for k in res_2:
     s1.append(m1)
     for l in range(len(s1)):
         m2 = s1[l]
-        name = 'diesel'
+        # name = 'diesel'
         if  m2 in k["description"]:
             main_1 = m2.replace('kb/d',"kb_d")
             # print(main_1)
             Base_Dir_1 = ['E:\\GE-PROJECT_DATABASE\\energy ascepts\\currently working on it\\test\\merge\\']
             # dir = Base_Dir_1[0] + '%s'+ "\\" + str(m2)
             print(pd.DataFrame([k["description"]] + list(k.get("date").values()),["Date"] +list(k.get("date").keys())).to_excel(Base_Dir_1[0]+ str(main_1) + '.xlsx',index = True))
+
+
+
+
+
+
+
+
+
+
+
 ref = ['Angola',
 'Ivory Coast',
 'Congo',
