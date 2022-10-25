@@ -1,0 +1,61 @@
+import openpyxl
+import requests as req
+import csv
+import json
+from re import I
+import pandas as pd
+import os
+import logging
+
+#logger file
+_format = '%(asctime)10s %(msecs)10s %(message)10s'
+logging.basicConfig(level=logging.DEBUG,
+                  filename='tracker.log',
+                  filemode='a',
+                  datefmt='%H:%M:%S',
+                  format=_format)
+
+logger = logging.getLogger(__name__)
+
+
+Start_id  = int(input("Enter Start Data Set_id:"))
+End_id = int(input("Enter End Data Set_id:"))
+
+
+
+
+for i in range(Start_id,End_id+1):
+    #data set id 2296 - 2300
+    request = ['https://api.energyaspects.com/data/timeseries/xlsx?dataset_id=']
+    api_key =  'api_key=EPvbpqLCa90jVF3r'
+#&date_from=2009-01-01&date_to=2023-12-23``
+    date_from = '2009-01-01'
+    date_to = '2023-12-23'
+    id = i
+    res_1 = request[0] + str(i) + '&' + api_key + '&' + date_from  + '&' + date_to
+    main = req.get(res_1)
+# r1 = json.loads(main.text)
+    with open('sample_file_%s.xlsx' % str(i), mode='wb') as f:
+        f.write(main.content)
+    workbook1 = openpyxl.load_workbook('sample_file_%s.xlsx' % str(i))
+    del workbook1['Metadata']
+    extra = r'E:\\GE-PROJECT_DATABASE\\energy ascepts\\currently working on it\\test\\merge\MERGED_' + str(i) +  '.xlsx'
+    t1 = pd.DataFrame(workbook1.save(extra))
+    print(t1)
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    logger.debug(pd.read_excel('sample_file_%s.xlsx' % str(i)))
+
+   
+    
