@@ -1,6 +1,6 @@
 import json
 
-with open(r"C:\Users\Techforce\Downloads\new_intents.md") as f:
+with open(r'C:\Users\Techforce\Downloads\Updated nlu.md') as f:
     data = f.read()
 l = []
 # print(type(data))
@@ -14,6 +14,6 @@ for j in res_1:
                         'intent': intent.split(':')[-1].strip(' '),
                         'entities':[]})
 print(l)
-with open(r'E:\MARICO_NLP_DATA.json', mode='w') as f:
+with open(r'E:\NLP-main_marico1.json', mode='w') as f:
     json.dump({'rasa_nlu_data': {'Marico': l}}, f, indent=3)
         
