@@ -1,0 +1,31 @@
+
+global blance #not completed(complex)
+global demand#completed
+non opec crud supplies #completed
+opec supplies#completed
+
+#doubht 	
+oil products
+global blances light fuel middledistalltes
+1.oil demand =  116 
+
+2.global disel blance#completed
+
+
+
+refinery
+global refinery runs#completed
+:-123
+global refinery additions#not completed(complex)
+1.global refinery runs#completed
+apikey:
+https://api.energyaspects.com/data/datasets/timeseries?api_key=OHC4iu7a7zb5j3cD
+url to login GE:
+https://my.energyaspects.com/research/oil-products/data
+---------------------------
+get data from dates format:
+----------------------------
+https://developer.energyaspects.com/reference/timeseries_get
+----------------------
+using date format and api key and data set id.
+https://api.energyaspects.com/data/timeseries/?api_key=EPvbpqLCa90jVF3r&date_from=2009-01-01&date_to=2023-12-23&dataset_id=1

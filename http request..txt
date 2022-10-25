@@ -1,0 +1,6 @@
+let http = require("http")
+http.createServer(function(request,response)
+{
+       response.end("start")
+}).listen(1230)
+console.log("server started");

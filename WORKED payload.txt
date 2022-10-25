@@ -1,0 +1,95 @@
+{
+"ServiceName": "IM_LogOrUpdateIncident",
+"objCommonParameters": {
+"_ProxyDetails": {
+"AuthType": "APIKEY",
+"APIKey": "McxSQG2nX7FptkbEjxybG6MnXYtz0K0o3BNlB2Ef8kk=",
+"ProxyID": 0,
+"ReturnType": "JSON",
+"OrgID": 1
+},
+"incidentParamsJSON": {
+"IncidentContainerJsonObj": {
+"Updater": "Executive",
+"Ticket": {
+"Ticket_No": "",
+"IsFromWebService": true,
+"Priority_Name": "P3",
+"Classification_Name": "",
+"Category_Name": "",
+"SLA_Name": "",
+"Sup_Function": "IT",
+"Caller_EmailID": "rohith.sangu@marico.com",
+"Status": "New",
+"Urgency_Name": "Medium",
+"Assigned_WorkGroup_Name": "SAP Basis Support",
+"Medium": "ChatBot",
+"Source": "ChatBot",
+"Assigned_Engineer_Email": "",
+"Description": "Description:+desc5",
+"PageName": "TicketDetail"
+},
+"TicketInformation": {
+"Information": "info5",
+"InternalLog": "",
+"UserLog": ""
+},
+"CustomFields": []
+}
+},
+"RequestType": "Regular Incident"
+}
+}
+
+##worked
+
+
+
+var userEmail = execution.getVariable("Use_email")
+var desc7 = execution.getVariable("descStatement7")
+var info7 = execution.getVariable("issueInfo7")
+
+var ticketpayload7={
+"ServiceName": "IM_LogOrUpdateIncident",
+"objCommonParameters": {
+"_ProxyDetails": {
+"AuthType": "APIKEY",
+"APIKey": "McxSQG2nX7FptkbEjxybG6MnXYtz0K0o3BNlB2Ef8kk=",
+"ProxyID": 0,
+"ReturnType": "JSON",
+"OrgID": 1
+},
+"incidentParamsJSON": {
+"IncidentContainerJsonObj": {
+"Updater": "Executive",
+"Ticket": {
+"Ticket_No": "",
+"IsFromWebService": true,
+"Priority_Name": "P3",
+"Classification_Name": "",
+"Category_Name": "",
+"SLA_Name": "",
+"Sup_Function": "IT",
+"Caller_EmailID": "rohith.sangu@marico.com",
+"Status": "New",
+"Urgency_Name": "Medium",
+"Assigned_WorkGroup_Name": "SAP Basis Support",
+"Medium": "ChatBot",
+"Source": "ChatBot",
+"Assigned_Engineer_Email": "",
+"Description": "Description:+desc5",
+"PageName": "TicketDetail"
+},
+"TicketInformation": {
+"Information": "info5",
+"InternalLog": "",
+"UserLog": ""
+},
+"CustomFields": []
+}
+},
+"RequestType": "Regular Incident"
+}
+}
+execution.setVariable("ticketpayload7",JSON.stringify(ticketpayload7))
+JSON.stringify(ticketpayload7)

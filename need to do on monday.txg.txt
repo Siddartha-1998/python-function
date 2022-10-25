@@ -1,0 +1,549 @@
+All_documents
+
+
+1.Please click on the SOP for detailed process steps:
+Reset_password
+https://tfcms.maricoapps.biz/uploads/SOP_for_reseting_the_password_using_SSPR_16e39223d1.pdf
+
+
+
+2.Refer link for relevant SOP document:
+Outlook_Branch
+https://tfcms.maricoapps.biz/uploads/SOP_for_accessing_outlook_on_Android_device_d942d31f2a.pdf
+
+
+3.Refer link for relevant SOP document:
+VPN_configration
+https://tfcms.maricoapps.biz/uploads/How_to_install_and_configure_Global_Protect_VPN_2200e7d251.pdf
+
+
+4.Refer link for relevant SOP document:
+WRO_0000_doc
+https://tfcms.maricoapps.biz/uploads/WRO_0000_doc_3c7198a299.docx
+
+
+
+
+5.Refer link for relevant SOP document:
+href="https://tfcms.maricoapps.biz/uploads/Method_1_f0c276773d.docx
+
+
+
+
+6.Refer link for relevant SOP document:
+GATE_Pass
+https://tfcms.maricoapps.biz/uploads/SOP_Gatepass_portal_weight_captur_issue_cb07e168e2.docx
+
+
+
+7.Please Click on the link to Download SOP for:
+MDG Overview.
+https://tfcms.maricoapps.biz/uploads/SOP_MDG_Overview_744d6fa66a.pptx
+
+
+
+
+8.Please Click on the link to download SOP for:
+New FG Creation process.
+https://tfcms.maricoapps.biz/uploads/User_Guide_NEW_FG_Process_08a5b193ef.pptx
+
+
+
+9.Please Click on the link to download SOP for:
+How to reset the password
+https://tfcms.maricoapps.biz/uploads/SOP_MDG_Password_RESET_301128dc53.pptx
+
+
+
+
+10.Please Click on the link to download SOP for:
+How to raise MIL vendor creation request in MDG Portal.
+https://tfcms.maricoapps.biz/uploads/SOP_MIL_VENDROR_CREATION_5ca902112f.pptx
+
+
+
+
+11.Please Click on the link to download SOP for
+How to raise MIL Customer creation request in MDG Portal.
+https://tfcms.maricoapps.biz/uploads/SOP_MIL_CUSTOMER_CREATION_e35e69071e.pptx
+
+
+
+
+12.Please Click on the link to download SOP for How to raise
+ Non FG creation request for MIL in MDG Portal.
+https://tfcms.maricoapps.biz/uploads/SOP_MIL_NON_FG_CREATION_2873381c92.pptx
+
+
+
+
+
+13.Please Click on the link to Download SOP for:
+Market Complaint module
+"https://tfcms.maricoapps.biz/uploads/Application_Darpan_SOP_CPB_Market_Complaint_Orginator_1_9ab9a05f4e.pdf/n
+
+
+
+14.Click to download SOP for Process steps on both Registration.If you have already registered Please ignore registration process
+SAP Logon Password reset.
+https://tfcms.maricoapps.biz/uploads/Marico_SOP_for_Password_reset_Self_Service_a77d023b4c.
+
+
+
+
+15.Click to download SOP for Process steps on both Registration and SAP Logon Password reset. If you have already registered Please ignore registration
+process.
+SAP Logon Password reset
+https://tfcms.maricoapps.biz/uploads/Marico_SAP_Support_PSS_WI_Production_50b106bd71.
+
+
+
+16.Click to download SOP for Process steps on both Registration and SAP Logon Password reset. If you have already registered Please ignore registration process.
+SAP Logon Password reset
+https://tfcms.maricoapps.biz/uploads/Marico_SAP_Support_PSS_WI_Dev_QA_0fc6ed0e6b.
+
+
+
+17.Please refer SOP-<a href="https://tfcms.maricoapps.biz/uploads/SOP_Request_Initiato_Change_Account_Request_f6edc540bb.ppsm
+and Inorder to raise a request Please refer End User Template-
+SOP_Request_Initiato_Change_Account_Request
+https://tfcms.maricoapps.biz/uploads/End_User_Template_a5b90423a3.xlsx
+
+
+
+18.Please Click on the link to download
+IT Policy
+https://tfcms.maricoapps.biz/uploads/Marico_IT_Policy_2020_v1_0_491f04edb9.pdf
+
+
+19.Refer link for relevant SOP document
+Incorrect_Tax_Code_used_Please_check_business_place_and_vendor_region
+https://tfcms.maricoapps.biz/uploads/Incorrect_Tax_Code_used_Please_check_business_place_and_vendor_region_039bc0c58c.pdf
+
+
+
+
+20.Refer link for relevant SOP document:
+Balancing_field_Business_Area_or_Segment_is_missing_at_line_item
+https://tfcms.maricoapps.biz/uploads/Balancing_field_Business_Area_or_Segment_is_missing_at_line_item_XXXX_8e77309c7b.pdf
+
+
+
+
+21.Refer link for relevant SOP document:
+https://tfcms.maricoapps.biz/uploads/Unable_to_Post_Inbound_Invoice_through_T_Code_J_1_IG_INV_753b777e1b.pdf
+
+
+
+
+22.Refer link for relevant SOP document:
+not_open_for_Account_Type_A_and_GL_XXXXXX_35c4f34ca0
+https://tfcms.maricoapps.biz/uploads/Period_XX_XXXX_is_not_open_for_Account_Type_A_and_GL_XXXXXX_35c4f34ca0.pdf
+
+
+
+23.Refer link for relevant SOP document:
+Incorrect_Tax_Code_used_Please_check_business_place_and_vendor_region
+https://tfcms.maricoapps.biz/uploads/Incorrect_Tax_Code_used_Please_check_business_place_and_vendor_region_039bc0c58c.pdf
+
+
+
+24.Refer link for relevant SOP document:
+Goods_Receipt_can_be_possible_against_IBD_Only_3eb3107d32
+https://tfcms.maricoapps.biz/uploads/Goods_Receipt_can_be_possible_against_IBD_Only_3eb3107d32.pdf
+
+
+
+25.Refer link for relevant SOP document:
+No_goods_receipt_possible_for_purchase_order_for_Goods_PO
+https://tfcms.maricoapps.biz/uploads/No_goods_receipt_possible_for_purchase_order_for_Goods_PO_f75a4182ce.pdf
+
+26.Refer link for relevant SOP document:
+No_goods_receipt_possible_for_purchase_order_for_Service_PO
+https://tfcms.maricoapps.biz/uploads/No_goods_receipt_possible_for_purchase_order_for_Service_PO_fc45ed545a.pdf
+
+
+
+27.Refer link for relevant SOP document:
+Error_during_GRN_Latest_possible_delivery_date_was_XX_XX_XXXX_
+https://tfcms.maricoapps.biz/uploads/Error_during_GRN_Latest_possible_delivery_date_was_XX_XX_XXXX_2671e427db.pdf
+
+
+28.Refer link for relevant SOP document:
+0_XXX_CS_GIT_Stock_visible_in_Stock_reports
+https://tfcms.maricoapps.biz/uploads/0_XXX_CS_GIT_Stock_visible_in_Stock_reports_edfc2295db.pdf
+
+
+29.Refer link for relevant SOP document:
+MRP_rate_not_maintained_for_material_XXXX_batch_XXXX_0b8e0f1613
+https://tfcms.maricoapps.biz/uploads/MRP_rate_not_maintained_for_material_XXXX_batch_XXXX_0b8e0f1613.pdf
+
+
+30.Refer link for relevant SOP document:
+Getting_Data_Dump_of_L_and_orders_executed_on_Date_45bd5258eb
+https://tfcms.maricoapps.biz/uploads/Getting_Data_Dump_of_L_and_orders_executed_on_Date_45bd5258eb.pdf
+
+
+31.Refer link for relevant SOP document:
+Material_XXXX_is_not_listed_and_therefore_not_allowed
+https://tfcms.maricoapps.biz/uploads/Material_XXXX_is_not_listed_and_therefore_not_allowed_34df53230a.pdf
+
+
+32.Refer link for relevant SOP document:
+MRP_rate_not_maintained_for_material_XXXX_batch_XXXX_0b8e0f1613
+https://tfcms.maricoapps.biz/uploads/MRP_rate_not_maintained_for_material_XXXX_batch_XXXX_0b8e0f1613.pdf
+
+
+
+33.Refer link for relevant SOP document:
+Goods_issue_from_delivery_not_possible_due_to_block_03b4235b77
+https://tfcms.maricoapps.biz/uploads/Goods_issue_from_delivery_not_possible_due_to_block_03b4235b77.pdf
+
+
+
+34.Refer link for relevant SOP document:
+Deficit_of_BA_unresticted_use_XXX_Nos
+https://tfcms.maricoapps.biz/uploads/Deficit_of_BA_unresticted_use_XXX_Nos_676f498d6c.pdf
+
+
+
+33.Refer link for relevant SOP document:
+Batch_XXXXXX_expires_on_00000000_or_XXXXXXXX
+https://tfcms.maricoapps.biz/uploads/Batch_XXXXXX_expires_on_00000000_or_XXXXXXXX_d3c270e128.pdf
+
+
+34.Refer link for relevant SOP document:
+No_schedule_lines_due_for_delivery_up_to_selection_date
+https://tfcms.maricoapps.biz/uploads/No_schedule_lines_due_for_delivery_up_to_selection_date_bb0bf5e1a9.pdf
+
+
+
+
+35.Refer link for relevant SOP document:
+No_data_availble_for_selection_criteria_in_VL_09
+https://tfcms.maricoapps.biz/uploads/No_data_availble_for_selection_criteria_in_VL_09_becdd8fb79.pdf
+
+36.Refer link for relevant SOP document:
+Stock_blocked_in_deleted_OBD_3d07e1941d
+https://tfcms.maricoapps.biz/uploads/Stock_blocked_in_deleted_OBD_3d07e1941d.pdf
+
+
+37.Refer link for relevant SOP document:
+SOP_Document_for_Transfer_posting_b84dd4686e
+https://tfcms.maricoapps.biz/uploads/SOP_Document_for_Transfer_posting_b84dd4686e.pdf
+
+
+
+38.Refer link for relevant SOP document:
+Checking_Delivery_List_Report
+https://tfcms.maricoapps.biz/uploads/Checking_Delivery_List_Report_59fab9407c.pdf
+
+
+
+39.Refer link for relevant SOP document:
+No_billing_documents_were_generated_in_VF_11
+https://tfcms.maricoapps.biz/uploads/No_billing_documents_were_generated_in_VF_11_962f84ef8f.pdf
+
+
+
+40.Refer link for relevant SOP document:
+SKU_is_missing_in_invoice_print_or_Zero_value_showing_in_invoice
+https://tfcms.maricoapps.biz/uploads/SKU_is_missing_in_invoice_print_or_Zero_value_showing_in_invoice_adaa190b11.pdf
+
+
+41.Refer link for relevant SOP document:
+MRP_rate_not_maintained_for_material_XXXX_batch_XXXX
+https://tfcms.maricoapps.biz/uploads/MRP_rate_not_maintained_for_material_XXXX_batch_XXXX_32526e9fc4.pdf
+
+
+
+
+
+42.Refer link for relevant SOP document:
+PRE_GST_PRINT_INVOICES
+https://tfcms.maricoapps.biz/uploads/PRE_GST_PRINT_INVOICES_e30b250b30.pdf
+
+
+43.Refer link for relevant SOP document:
+Unable_to_find_the_inspection_lot_in_QE_51_N_7
+https://tfcms.maricoapps.biz/uploads/Unable_to_find_the_inspection_lot_in_QE_51_N_7c47d2be28.pdf
+
+
+
+44.Refer link for relevant SOP document:
+The_Inspection_lot_is_in_CRTD_status_
+https://tfcms.maricoapps.biz/uploads/The_Inspection_lot_is_in_CRTD_status_c8572684c0.pdf1.Please click on the SOP for detailed process steps:
+Reset_password
+https://tfcms.maricoapps.biz/uploads/SOP_for_reseting_the_password_using_SSPR_16e39223d1.pdf
+
+
+
+45.Refer link for relevant SOP document:
+Outlook_Branch
+https://tfcms.maricoapps.biz/uploads/SOP_for_accessing_outlook_on_Android_device_d942d31f2a.pdf
+
+
+46.Refer link for relevant SOP document:
+VPN_configration
+https://tfcms.maricoapps.biz/uploads/How_to_install_and_configure_Global_Protect_VPN_2200e7d251.pdf
+
+
+47.Refer link for relevant SOP document:
+WRO_0000_doc
+https://tfcms.maricoapps.biz/uploads/WRO_0000_doc_3c7198a299.docx
+
+
+
+
+48.Refer link for relevant SOP document:
+href="https://tfcms.maricoapps.biz/uploads/Method_1_f0c276773d.docx
+
+
+
+
+49.Refer link for relevant SOP document:
+GATE_Pass
+https://tfcms.maricoapps.biz/uploads/SOP_Gatepass_portal_weight_captur_issue_cb07e168e2.docx
+
+
+
+50.Please Click on the link to Download SOP for:
+MDG Overview.
+https://tfcms.maricoapps.biz/uploads/SOP_MDG_Overview_744d6fa66a.pptx
+
+
+
+
+51.Please Click on the link to download SOP for:
+New FG Creation process.
+https://tfcms.maricoapps.biz/uploads/User_Guide_NEW_FG_Process_08a5b193ef.pptx
+
+
+
+52.Please Click on the link to download SOP for:
+How to reset the password
+https://tfcms.maricoapps.biz/uploads/SOP_MDG_Password_RESET_301128dc53.pptx
+
+
+
+
+53.Please Click on the link to download SOP for:
+How to raise MIL vendor creation request in MDG Portal.
+https://tfcms.maricoapps.biz/uploads/SOP_MIL_VENDROR_CREATION_5ca902112f.pptx
+
+
+
+
+54.Please Click on the link to download SOP for
+How to raise MIL Customer creation request in MDG Portal.
+https://tfcms.maricoapps.biz/uploads/SOP_MIL_CUSTOMER_CREATION_e35e69071e.pptx
+
+
+
+
+55.Please Click on the link to download SOP for How to raise
+ Non FG creation request for MIL in MDG Portal.
+https://tfcms.maricoapps.biz/uploads/SOP_MIL_NON_FG_CREATION_2873381c92.pptx
+
+
+
+
+
+56.Please Click on the link to Download SOP for:
+Market Complaint module
+https://tfcms.maricoapps.biz/uploads/Application_Darpan_SOP_CPB_Market_Complaint_Orginator_1_9ab9a05f4e.pdf
+
+
+
+57.Click to download SOP for Process steps on both Registration.If you have already registered Please ignore registration process
+SAP Logon Password reset.
+https://tfcms.maricoapps.biz/uploads/Marico_SOP_for_Password_reset_Self_Service_a77d023b4c.pdf
+
+
+
+
+58.Click to download SOP for Process steps on both Registration and SAP Logon Password reset. If you have already registered Please ignore registration
+process.
+SAP Logon Password reset
+https://tfcms.maricoapps.biz/uploads/Marico_SAP_Support_PSS_WI_Production_50b106bd71.pdf
+
+
+
+59.Click to download SOP for Process steps on both Registration and SAP Logon Password reset. If you have already registered Please ignore registration process.
+SAP Logon Password reset
+https://tfcms.maricoapps.biz/uploads/Marico_SAP_Support_PSS_WI_Dev_QA_0fc6ed0e6b.pdf
+
+
+
+60.Please refer SOP-<a href="https://tfcms.maricoapps.biz/uploads/SOP_Request_Initiato_Change_Account_Request_f6edc540bb.ppsm
+and Inorder to raise a request Please refer End User Template-
+SOP_Request_Initiato_Change_Account_Request
+https://tfcms.maricoapps.biz/uploads/End_User_Template_a5b90423a3.xlsx
+
+
+
+61.Please Click on the link to download
+IT Policy
+https://tfcms.maricoapps.biz/uploads/Marico_IT_Policy_2020_v1_0_491f04edb9.pdf
+
+
+62.Refer link for relevant SOP document
+Incorrect_Tax_Code_used_Please_check_business_place_and_vendor_region
+https://tfcms.maricoapps.biz/uploads/Incorrect_Tax_Code_used_Please_check_business_place_and_vendor_region_039bc0c58c.pdf
+
+
+
+
+63.Refer link for relevant SOP document:
+Balancing_field_Business_Area_or_Segment_is_missing_at_line_item
+https://tfcms.maricoapps.biz/uploads/Balancing_field_Business_Area_or_Segment_is_missing_at_line_item_XXXX_8e77309c7b.pdf
+
+
+
+
+64Refer link for relevant SOP document:
+https://tfcms.maricoapps.biz/uploads/Unable_to_Post_Inbound_Invoice_through_T_Code_J_1_IG_INV_753b777e1b.pdf
+
+
+
+
+65.Refer link for relevant SOP document:
+not_open_for_Account_Type_A_and_GL_XXXXXX_35c4f34ca0
+https://tfcms.maricoapps.biz/uploads/Period_XX_XXXX_is_not_open_for_Account_Type_A_and_GL_XXXXXX_35c4f34ca0.pdf
+
+
+
+66.Refer link for relevant SOP document:
+Incorrect_Tax_Code_used_Please_check_business_place_and_vendor_region
+https://tfcms.maricoapps.biz/uploads/Incorrect_Tax_Code_used_Please_check_business_place_and_vendor_region_039bc0c58c.pdf
+
+
+
+67.Refer link for relevant SOP document:
+Goods_Receipt_can_be_possible_against_IBD_Only_3eb3107d32
+https://tfcms.maricoapps.biz/uploads/Goods_Receipt_can_be_possible_against_IBD_Only_3eb3107d32.pdf
+
+
+
+68.Refer link for relevant SOP document:
+No_goods_receipt_possible_for_purchase_order_for_Goods_PO
+https://tfcms.maricoapps.biz/uploads/No_goods_receipt_possible_for_purchase_order_for_Goods_PO_f75a4182ce.pdf
+
+
+
+69.Refer link for relevant SOP document:
+No_goods_receipt_possible_for_purchase_order_for_Service_PO
+https://tfcms.maricoapps.biz/uploads/No_goods_receipt_possible_for_purchase_order_for_Service_PO_fc45ed545a.pdf
+
+
+70.Refer link for relevant SOP document:
+Error_during_GRN_Latest_possible_delivery_date_was_XX_XX_XXXX_
+https://tfcms.maricoapps.biz/uploads/Error_during_GRN_Latest_possible_delivery_date_was_XX_XX_XXXX_2671e427db.pdf
+
+
+
+71.Refer link for relevant SOP document:
+0_XXX_CS_GIT_Stock_visible_in_Stock_reports
+href="https://tfcms.maricoapps.biz/uploads/0_XXX_CS_GIT_Stock_visible_in_Stock_reports_edfc2295db.pdf
+
+
+72.Refer link for relevant SOP document:
+MRP_rate_not_maintained_for_material_XXXX_batch_XXXX_0b8e0f1613
+https://tfcms.maricoapps.biz/uploads/MRP_rate_not_maintained_for_material_XXXX_batch_XXXX_0b8e0f1613.pdf
+
+
+73.Refer link for relevant SOP document:
+Getting_Data_Dump_of_L_and_orders_executed_on_Date_45bd5258eb
+https://tfcms.maricoapps.biz/uploads/Getting_Data_Dump_of_L_and_orders_executed_on_Date_45bd5258eb.pdf
+
+
+74.Refer link for relevant SOP document:
+Material_XXXX_is_not_listed_and_therefore_not_allowed
+https://tfcms.maricoapps.biz/uploads/Material_XXXX_is_not_listed_and_therefore_not_allowed_34df53230a.pdf
+
+
+75.Refer link for relevant SOP document:
+MRP_rate_not_maintained_for_material_XXXX_batch_XXXX_0b8e0f1613
+https://tfcms.maricoapps.biz/uploads/MRP_rate_not_maintained_for_material_XXXX_batch_XXXX_0b8e0f1613.pdf
+
+
+
+76.Refer link for relevant SOP document:
+Goods_issue_from_delivery_not_possible_due_to_block_03b4235b77
+https://tfcms.maricoapps.biz/uploads/Goods_issue_from_delivery_not_possible_due_to_block_03b4235b77.pdf
+
+
+
+77.Refer link for relevant SOP document:
+Deficit_of_BA_unresticted_use_XXX_Nos
+https://tfcms.maricoapps.biz/uploads/Deficit_of_BA_unresticted_use_XXX_Nos_676f498d6c.pdf
+
+
+
+78.Refer link for relevant SOP document:
+Batch_XXXXXX_expires_on_00000000_or_XXXXXXXX
+https://tfcms.maricoapps.biz/uploads/Batch_XXXXXX_expires_on_00000000_or_XXXXXXXX_d3c270e128.pdf
+
+
+79.Refer link for relevant SOP document:
+No_schedule_lines_due_for_delivery_up_to_selection_date
+https://tfcms.maricoapps.biz/uploads/No_schedule_lines_due_for_delivery_up_to_selection_date_bb0bf5e1a9.pdf
+
+
+
+
+80.Refer link for relevant SOP document:
+No_data_availble_for_selection_criteria_in_VL_09
+https://tfcms.maricoapps.biz/uploads/No_data_availble_for_selection_criteria_in_VL_09_becdd8fb79.pdf
+
+
+81.Refer link for relevant SOP document:
+Stock_blocked_in_deleted_OBD_3d07e1941d
+https://tfcms.maricoapps.biz/uploads/Stock_blocked_in_deleted_OBD_3d07e1941d.pdf
+
+
+82.Refer link for relevant SOP document:
+SOP_Document_for_Transfer_posting_b84dd4686e
+https://tfcms.maricoapps.biz/uploads/SOP_Document_for_Transfer_posting_b84dd4686e.pdf
+
+
+
+83.Refer link for relevant SOP document:\
+Checking_Delivery_List_Report
+https://tfcms.maricoapps.biz/uploads/Checking_Delivery_List_Report_59fab9407c.pdf
+
+
+
+84.Refer link for relevant SOP document:
+No_billing_documents_were_generated_in_VF_11
+https://tfcms.maricoapps.biz/uploads/No_billing_documents_were_generated_in_VF_11_962f84ef8f.pdf
+
+
+
+85.Refer link for relevant SOP document:
+SKU_is_missing_in_invoice_print_or_Zero_value_showing_in_invoice
+https://tfcms.maricoapps.biz/uploads/SKU_is_missing_in_invoice_print_or_Zero_value_showing_in_invoice_adaa190b11.pdf
+
+
+86.Refer link for relevant SOP document:
+MRP_rate_not_maintained_for_material_XXXX_batch_XXXX
+https://tfcms.maricoapps.biz/uploads/MRP_rate_not_maintained_for_material_XXXX_batch_XXXX_32526e9fc4.pdf
+
+
+
+
+
+87.Refer link for relevant SOP document:
+PRE_GST_PRINT_INVOICES
+https://tfcms.maricoapps.biz/uploads/PRE_GST_PRINT_INVOICES_e30b250b30.pdf
+
+
+88.Refer link for relevant SOP document:
+Unable_to_find_the_inspection_lot_in_QE_51_N_7
+https://tfcms.maricoapps.biz/uploads/Unable_to_find_the_inspection_lot_in_QE_51_N_7c47d2be28.pdf
+
+
+
+89.Refer link for relevant SOP document:
+The_Inspection_lot_is_in_CRTD_status_
+https://tfcms.maricoapps.biz/uploads/The_Inspection_lot_is_in_CRTD_status_c8572684c0.pdf

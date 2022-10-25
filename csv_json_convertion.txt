@@ -1,0 +1,5 @@
+import pandas as pd
+import json
+df = pd.read_csv(r'C:\Users\Techforce\Downloads\Testing the mario chat bot for time_lapse.csv')
+main = df.to_json (r'E:\GE_project\test2.json', indent=3)
+

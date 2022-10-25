@@ -1,0 +1,3 @@
+Nidhi IBM (internal teams asked points on thursday call on(14-09-2022));
+1.Please select option to Re-type your query Or to create a Ticket . Press Exit to Leave.
+2.please put please wait while loading msg...[when menu is getting slow response];

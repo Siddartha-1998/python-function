@@ -1,0 +1,5 @@
+steps for thomas reutrs
+1.api data conversion. to excel
+2.excel to json
+3 json to database.
+

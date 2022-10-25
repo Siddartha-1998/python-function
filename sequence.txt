@@ -1,0 +1,23 @@
+var data = execution.getVariable("userconfirmation")
+execution.setVariable("data",data);
+var take;
+if(data == "Yes")
+{
+take = '0'
+}
+else if(data == "no" || data == "NO" || data == "nope" ||data == "No")
+{
+take = '1'
+}
+else
+{
+take == '0'
+}
+
+
+
+
+
+
+
+execution.setVariable("take",take);

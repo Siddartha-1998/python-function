@@ -1,0 +1,10 @@
+r = requests.get('https://api.energyaspects.com/data/timeseries/?api_key=EPvbpqLCa90jVF3r&date_from=2009-01-01&date_to=2023-12-23&dataset_id=1642')
+response_1 = eval(r.text)
+print(response_1)
+
+for i in response_1:
+    pd.DataFrame(list(zip(list(i.get('data').keys()), list(i.get('data').values()))),
+                 columns=['Date', i.get('metadata').get('description')]
+                 ).to_excel(r'E:\GE-PROJECT_DATABASE\energy ascepts\currently working on it\refinery runs\test2.xlsx', 
+                            index=False,
+                            sheet_name=i.get('metadata').get('description').replace('/', '_'))

@@ -1,0 +1,21 @@
+SHIPS.
+vlgc
+lgc
+mgc
+sgc
+lng
+
+remove dates(empty)
+-------------------------
+agriculture:
+ALL
+--------------
+(lpg): remove product = petro chemcical
+
+lgc
+mgc
+sgc
+vlgc
+----------------------
+(lng)
+lng

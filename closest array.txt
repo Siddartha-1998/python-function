@@ -1,0 +1,9 @@
+var arr = [2,6,15,19,58,25,67]
+var b = []
+for(i=0;i<arr.length;i++){
+    if(arr[i]<17){
+        b.push(arr[i])
+    }
+    
+}
+console.log(b)

@@ -1,0 +1,7 @@
+var a = [{name:"madhuri"},{name:"srini"},{name:"raj"},{name:"vennela"}]
+var b = []
+for(i=0;i<a.length;i++){
+    b.push(a[i].name)
+    
+}
+console.log(b)

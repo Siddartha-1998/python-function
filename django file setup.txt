@@ -1,0 +1,15 @@
+django installation:
+virtual env:
+--------------
+pip install virtualenv
+(env):py -m venv env
+
+
+django installation main:
+pip install django
+django-admin startproject Filename.
+python manage.py runserver
+
+
+
+
